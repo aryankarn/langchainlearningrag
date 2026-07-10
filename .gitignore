@@ -33,6 +33,7 @@ chroma/
 chroma_db/
 faiss_index/
 vectorstore/
+vector_store/
 *.sqlite
 *.sqlite3
 
